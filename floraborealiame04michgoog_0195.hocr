@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./floraborealiame04michgoog_0195.png"; bbox 0 0 765 1200; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 171 116 682 206">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 171 116 682 206">
+     <span class='ocr_line' id='line_1_1' title="bbox 171 116 603 139; baseline 0.005 -5"><span class='ocrx_word' id='word_1_1' title='bbox 171 116 206 139; x_wconf 77' lang='lat'>154</span> <span class='ocrx_word' id='word_1_2' title='bbox 241 118 423 136; x_wconf 79' lang='lat' dir='ltr'><strong>SYNGENESIA.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 436 123 603 136; x_wconf 68' lang='lat' dir='ltr'><em>uonoaAulA.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 266 147 682 176; baseline 0 -7"><span class='ocrx_word' id='word_1_4' title='bbox 266 147 414 176; x_wconf 62' lang='lat' dir='ltr'><strong>simplicifssimm</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 420 155 493 173; x_wconf 77' lang='lat' dir='ltr'>erecto,</span> <span class='ocrx_word' id='word_1_6' title='bbox 500 151 611 176; x_wconf 74' lang='lat' dir='ltr'>subaphyllo</span> <span class='ocrx_word' id='word_1_7' title='bbox 619 158 623 169; x_wconf 93' lang='lat'><strong>:</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 630 151 682 176; x_wconf 77' lang='lat' dir='ltr'>spica</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 267 180 630 206; baseline -0.003 -7"><span class='ocrx_word' id='word_1_9' title='bbox 267 180 345 199; x_wconf 77' lang='lat' dir='ltr'>floribus</span> <span class='ocrx_word' id='word_1_10' title='bbox 356 184 428 199; x_wconf 74' lang='lat' dir='ltr'>remote</span> <span class='ocrx_word' id='word_1_11' title='bbox 439 180 515 199; x_wconf 72' lang='lat' dir='ltr'>alteruis</span> <span class='ocrx_word' id='word_1_12' title='bbox 520 194 526 202; x_wconf 92' lang='lat'>,</span> <span class='ocrx_word' id='word_1_13' title='bbox 537 180 630 206; x_wconf 75' lang='lat' dir='ltr'>pendulis‘.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 231 220 680 262">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 231 220 680 267">
+     <span class='ocr_line' id='line_1_4' title="bbox 231 220 680 241; baseline 0.002 -6"><span class='ocrx_word' id='word_1_14' title='bbox 231 221 278 235; x_wconf 62' lang='lat' dir='ltr'>Han.</span> <span class='ocrx_word' id='word_1_15' title='bbox 289 221 306 235; x_wconf 85' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_16' title='bbox 317 221 350 236; x_wconf 72' lang='lat' dir='ltr'>luen</span> <span class='ocrx_word' id='word_1_17' title='bbox 360 220 450 240; x_wconf 67' lang='lat' dir='ltr'><em>San-gumi·</em></span> <span class='ocrx_word' id='word_1_18' title='bbox 457 220 521 241; x_wconf 62' lang='lat' dir='ltr'>assiqua</span> <span class='ocrx_word' id='word_1_19' title='bbox 531 220 596 239; x_wconf 64' lang='lat' dir='ltr'>vieini«,</span> <span class='ocrx_word' id='word_1_20' title='bbox 606 220 623 235; x_wconf 77' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_21' title='bbox 634 220 680 236; x_wconf 67' lang='lat' dir='ltr'>mri-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 252 245 438 262; baseline -0.005 -1"><span class='ocrx_word' id='word_1_22' title='bbox 252 246 292 261; x_wconf 68' lang='grc' dir='ltr'>θοιὶα</span> <span class='ocrx_word' id='word_1_23' title='bbox 300 246 343 262; x_wconf 66' lang='lat' dir='ltr'>simu</span> <span class='ocrx_word' id='word_1_24' title='bbox 352 245 438 261; x_wconf 66' lang='lat' dir='ltr'>liud-mu.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
